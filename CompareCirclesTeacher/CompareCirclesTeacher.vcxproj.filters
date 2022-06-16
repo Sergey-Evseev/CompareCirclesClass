@@ -18,12 +18,12 @@
     <ClCompile Include="CompareCirclesTeacher.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="circle.cpp">
+    <ClCompile Include="Сircle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="circle.h">
+    <ClInclude Include="Сircle.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

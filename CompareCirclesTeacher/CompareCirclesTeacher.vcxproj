@@ -151,11 +151,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="circle.cpp" />
+    <ClCompile Include="Сircle.cpp" />
     <ClCompile Include="CompareCirclesTeacher.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="circle.h" />
+    <ClInclude Include="Сircle.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
